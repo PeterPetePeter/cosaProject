@@ -1,0 +1,38 @@
+20200530 17:40:01 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20200530 17:40:01 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20200530 17:40:01 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20200602 14:23:52 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20200602 14:23:52 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20200602 14:23:52 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20200606 09:13:32 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java22 - Message:null
+20200606 14:42:54 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content!
+20200606 14:46:06 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content!transported via EMAIL
+20200606 14:46:21 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via EMAIL
+20200606 14:54:44 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via EMAIL
+20200606 14:57:18 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via SMS
+20200606 14:57:18 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via EMAIL
+20200606 16:54:30 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via EMAIL
+20200606 17:01:07 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via SMS
+20200606 17:01:07 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via EMAIL
+20201030 17:40:21 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via SMS
+20201030 17:40:23 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via EMAIL
+20201030 17:44:20 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via SMS
+20201030 17:44:22 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via EMAIL
+20201030 18:24:58 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via SMS
+20201030 18:24:58 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via EMAIL
+20201106 14:21:22 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via SMS
+20201106 14:21:22 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java31 - Message: This is a content! transported via EMAIL
+20201114 10:24:46 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: This is a content! transported via SMS
+20201114 10:24:46 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: This is a content! transported via EMAIL
+20201114 10:52:45 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: This is a content! transported via EMAIL
+20201114 15:04:09 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java29 - Message: This is a content! transported via EMAIL
+20220304 14:46:29 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java32 - Message: This is a content! transported via EMAIL
+20220311 18:46:32 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java35 - Message: This is a content! transported via EMAIL
+20220311 18:48:15 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java35 - Message: This is a content! transported via EMAIL
+20220311 18:50:07 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java35 - Message: This is a content! transported via EMAIL
+20220311 18:50:59 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java35 - Message: This is a content! transported via EMAIL
+20220311 18:56:09 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java35 - Message: This is a content! transported via EMAIL
+20220313 09:55:20 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java35 - Message: This is a content! transported via EMAIL
+20220313 09:57:08 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java35 - Message: This is a content! transported via EMAIL
+20220313 10:11:47 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java35 - Message: This is a content! transported via EMAIL
+20220313 10:14:17 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java35 - Message: This is a content! transported via EMAIL

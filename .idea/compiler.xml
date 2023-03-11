@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="osgi-document-system" />
+        <module name="osgi-messaging-system" />
+        <module name="osgi-printing-system" />
+        <module name="osgi-route-system" />
+        <module name="osgi-ticketautomaton-system" />
+        <module name="osgi-pricing-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="documentSystem" target="17" />
+      <module name="messagingSystem" target="17" />
+      <module name="osgi-route-system (2)" target="17" />
+      <module name="pricingSystem" target="17" />
+      <module name="printingSystem" target="17" />
+      <module name="routeSystem" target="17" />
+      <module name="ticketAutomatonSystem" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

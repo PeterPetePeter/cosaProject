@@ -1,0 +1,244 @@
+20200530 17:40:42 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java29 - Document with title New document added!
+20200530 17:40:42 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20200530 17:40:42 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20200530 17:40:42 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20200530 18:21:52 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java29 - Document with title New document added!
+20200530 18:21:52 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20200530 18:21:52 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20200530 18:21:52 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20200602 14:23:36 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java29 - Document with title New document added!
+20200602 14:23:36 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20200602 14:23:36 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20200602 14:23:36 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20200605 15:03:08 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java29 - Document with title New document added!
+20200605 15:03:08 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20200605 15:03:08 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20200605 15:03:08 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201030 17:37:51 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java29 - Document with title New document added!
+20201030 17:37:53 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201030 17:37:54 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201030 17:37:54 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201030 18:24:18 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java29 - Document with title New document added!
+20201030 18:24:18 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201030 18:24:18 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201030 18:24:18 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201106 14:34:43 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java29 - Document with title New document added!
+20201106 14:34:43 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201106 14:34:43 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201106 14:34:43 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201107 15:00:47 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201107 15:00:47 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201107 15:00:47 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201107 15:00:47 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: This is a content! transported via EMAIL
+20201107 15:24:41 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201107 15:24:41 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201107 15:24:41 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201107 15:24:41 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: This is a content! transported via EMAIL
+20201107 15:27:02 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201107 15:27:02 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201107 15:27:02 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201107 15:27:02 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201107 15:27:02 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: This is a content! transported via EMAIL
+20201107 16:10:11 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201107 16:10:11 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201107 16:10:11 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201107 16:10:11 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201107 16:14:21 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201107 16:14:21 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201107 16:14:21 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201107 16:14:35 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201107 16:20:56 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201107 16:20:56 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201107 16:20:56 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201107 16:20:56 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201107 16:23:25 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201107 16:23:25 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201107 16:23:25 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201107 16:23:25 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201107 16:23:25 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: PrintReport: New document transported via EMAIL
+20201114 10:07:47 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:07:47 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 10:07:47 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 10:07:47 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 10:12:53 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:12:53 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 10:12:53 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 10:12:53 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 10:14:31 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:14:31 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 10:14:31 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 10:14:31 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 10:16:45 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:16:53 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:16:53 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 10:16:53 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 10:16:53 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 10:16:53 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: PrintReport: New document transported via EMAIL
+20201114 10:25:01 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:25:01 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 10:25:01 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 10:25:01 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 10:25:01 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: null 2020-11-14 transported via EMAIL
+20201114 10:28:51 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:28:51 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 10:28:51 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 10:28:51 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 10:28:51 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: null 2020-11-14 transported via EMAIL
+20201114 10:29:24 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:29:24 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 10:29:24 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 10:29:24 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 10:31:08 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:31:08 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 10:31:08 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 10:31:08 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 10:31:08 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: null 2020-11-14 transported via EMAIL
+20201114 10:39:03 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:39:03 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 10:39:03 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 10:39:03 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 10:39:03 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: null 2020-11-14 transported via EMAIL
+20201114 10:53:44 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java39 - Document : New document created!
+20201114 10:53:44 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 10:53:44 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 10:53:44 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 10:53:44 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java33 - Message: null 2020-11-14 transported via EMAIL
+20201114 15:05:45 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java37 - Document : New document created!
+20201114 15:05:45 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 15:05:45 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 15:05:45 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 15:05:45 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java29 - Message: null 2020-11-14 transported via EMAIL
+20201114 15:06:38 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java37 - Document : New document created!
+20201114 15:06:38 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 15:06:38 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 15:06:38 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 15:06:38 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java29 - Message: null 2020-11-14 transported via EMAIL
+20201114 17:15:04 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java38 - Document : New document created!
+20201114 17:15:04 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 17:15:04 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 17:15:04 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 17:15:04 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java29 - Message: null 2020-11-14 transported via EMAIL
+20201114 17:16:02 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java38 - Document : New document created!
+20201114 17:16:02 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 17:16:02 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 17:16:02 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 17:16:02 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java29 - Message: null 2020-11-14 transported via EMAIL
+20201114 17:20:31 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java38 - Document : New document created!
+20201114 17:20:31 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201114 17:20:31 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201114 17:20:31 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201114 17:20:31 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java29 - Message: A new text 2020-11-14 transported via EMAIL
+20201128 12:12:36 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java66 - Document : New document created!
+20201128 12:12:36 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201128 12:12:36 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201128 12:12:36 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201128 12:12:36 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java29 - Message:  2020-11-28 transported via EMAIL
+20201229 19:47:07 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java68 - Document : Lüneburg Hamburg created!
+20201229 19:49:20 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201229 19:49:21 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201229 19:49:21 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201229 19:49:21 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java68 - Document : Lüneburg Hamburg created!
+20201229 19:54:02 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java63 - Document : Lüneburg Hamburg created!
+20201229 19:54:02 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201229 19:54:02 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201229 19:54:02 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201229 20:27:23 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java63 - Document : Lüneburg Hamburg created!
+20201229 20:27:23 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201229 20:27:23 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201229 20:27:23 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201229 20:27:23 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java34 - Message: Print date: 2020-12-29 Print price: 0.0 transported via EMAIL
+20201229 20:34:48 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java63 - Document : Lüneburg Hamburg created!
+20201229 20:34:48 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20201229 20:34:48 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20201229 20:34:48 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20201229 20:34:49 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java34 - Message: Print date: 2020-12-29 Print price: 0.0 transported via EMAIL
+20210107 17:02:54 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java63 - Document : Lüneburg Hamburg created!
+20210107 17:02:54 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 17:02:54 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 17:02:54 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 17:02:54 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java34 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 17:26:55 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java68 - Document : Lüneburg Hamburg created!
+20210107 17:28:58 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 17:28:58 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 17:28:58 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 17:28:58 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java34 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 17:41:01 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 17:41:01 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 17:41:01 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 17:41:01 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 17:41:01 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java34 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 18:35:53 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 18:35:53 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 18:35:53 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 18:35:53 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 18:35:54 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java34 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 18:40:46 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 18:40:46 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 18:40:46 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 18:40:46 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 18:40:46 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java34 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 19:02:15 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 19:02:15 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 19:02:15 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 19:02:15 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 19:02:15 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 19:02:59 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 19:02:59 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 19:02:59 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 19:02:59 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 19:02:59 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 19:14:41 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 19:14:41 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 19:14:41 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 19:14:41 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 19:14:41 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 19:15:44 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 19:15:44 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 19:15:44 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 19:15:44 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 19:15:44 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 19:16:25 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 19:16:25 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 19:16:25 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 19:16:25 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 19:16:25 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 19:30:29 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 19:30:29 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 19:30:29 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 19:30:29 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 19:30:29 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 19:35:16 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 19:35:16 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 19:35:16 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 19:35:16 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 19:35:16 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 19:36:24 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 19:36:24 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 19:36:24 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 19:36:24 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 19:36:24 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210107 19:46:10 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210107 19:46:10 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210107 19:46:10 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210107 19:46:10 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210107 19:46:11 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-01-07 Print price: 0.0 transported via EMAIL
+20210115 17:08:18 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20210115 17:08:18 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20210115 17:08:18 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20210115 17:08:18 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20210115 17:08:19 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-01-15 Print price: 0.0 transported via EMAIL
+20211103 14:03:19 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20211103 14:03:19 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20211103 14:03:19 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20211103 14:03:19 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20211103 14:03:19 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-11-03 Print price: 0.0 transported via EMAIL
+20211125 16:43:47 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20211125 16:43:47 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20211125 16:43:47 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20211125 16:43:47 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20211125 16:43:47 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-11-25 Print price: 0.0 transported via EMAIL
+20211127 15:56:13 INFO  [main] behaviour.DocumentSystemImpl DocumentSystemImpl.java64 - Document : Lüneburg Hamburg created!
+20211127 15:56:13 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - CreatedPrintJobState
+20211127 15:56:13 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - QueuedPrintJobState
+20211127 15:56:13 INFO  [main] structure.PrintJobState PrintJobState.java14 - Print job status - PrintedPrintJobState
+20211127 15:56:13 INFO  [main] behaviour.MessagingSystemImpl MessagingSystemImpl.java36 - Message: Print date: 2021-11-27 Print price: 0.0 transported via EMAIL
